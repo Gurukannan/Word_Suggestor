@@ -1,0 +1,2 @@
+streamlit==0.57.3
+pyenchant==3.0.1
